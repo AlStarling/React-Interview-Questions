@@ -6,8 +6,7 @@
 
 <details>
 <summary>Типы данных</summary>
-<br/>
-<div style="margin-left: 40px;">
+<ul>
 <details>
 <summary>Примитивные</summary>
 <ul>
@@ -27,7 +26,7 @@
 <li><b>«object»</b>: коллекция свойств и методов, которая может включать объекты, массивы, функции и другие структуры данных.</li>
 </ul>
 </details>
-</div>
+</ul>
 </details>
 <details>
 <summary>Цикл событий <b>(Event Loop)</b></summary>
