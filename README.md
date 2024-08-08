@@ -7,7 +7,6 @@
 <details>
 <summary>Типы данных</summary>
 <div>
-<ul>
 <details>
 <summary>Примитивные</summary>
 <ul>
@@ -27,7 +26,6 @@
 <li><b>«object»</b>: коллекция свойств и методов, которая может включать объекты, массивы, функции и другие структуры данных.</li>
 </ul>
 </details>
-</ul>
 </div>
 </details>
 <details>
