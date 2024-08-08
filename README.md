@@ -28,6 +28,7 @@
 </ul>
 </details>
 </ul>
+<br/>
 </details>
 <details>
 <summary>Цикл событий <b>(Event Loop)</b></summary>
