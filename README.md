@@ -6,8 +6,8 @@
 
 <details>
 <summary>Типы данных</summary>
-<details>
 <br/>
+<details>
 <summary>Примитивные</summary>
 <ul>
 <li><b>«string»</b>: строки текста, например, "Hello, world!".</li>
