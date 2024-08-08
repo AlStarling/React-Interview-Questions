@@ -72,6 +72,28 @@
 <li><b>«WeakMap»</b>: аналогичен Map, но ключами могут быть только объекты, и ссылки на них не предотвращают сборку мусора.</li>
 </ul>
 </details>
+<details>
+<summary>Разница между <b>==</b> и <b>===</b></summary>
+<ul>
+<p><b>==</b> (нестрогое равенство): Сравнивает значения после автоматического преобразования типов.</p>
+<p><b>===</b> (строгое равенство): Сравнивает значения без преобразования типов, учитывая их тип и значение.</p>
+</ul>
+</details>
+<details>
+<summary></summary>
+</details>
+<details>
+<summary></summary>
+</details>
+<details>
+<summary></summary>
+</details>
+<details>
+<summary></summary>
+</details>
+<details>
+<summary></summary>
+</details>
 <br/>
 
 ## React:
