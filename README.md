@@ -121,6 +121,7 @@
 </details>
 <details>
 <summary>Хуки в React:</summary>
+<ul>
 <details>
 <summary>useState</summary>
 <ul>
@@ -177,10 +178,11 @@
 <li><b>Принцип работы</b>: Используется совместно с forwardRef. Позволяет настраивать и контролировать, что именно будет доступно родительским компонентам через ref.</li>
 </ul>
 </details>
+</ul>
 </details>
 
 <details>
-<summary></summary>
+<summary>Порталы в React:</summary>
 </details>
 
 <details>
