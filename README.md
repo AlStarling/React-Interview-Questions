@@ -8,6 +8,7 @@
 <summary>Типы данных</summary>
 <details>
 <summary>Примитивные</summary>
+<br>
 <ul>
 <li><b>«string»</b>: строки текста, например, "Hello, world!".</li>
 <li><b>«number»</b>: числовые значения, как целые, так и дробные, например, 42 или 3.14.</li>
