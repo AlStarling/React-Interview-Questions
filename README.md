@@ -6,6 +6,7 @@
 
 <details>
 <summary>Типы данных</summary>
+<br/>
 <ul>
 <details>
 <summary>Примитивные</summary>
